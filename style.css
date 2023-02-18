@@ -1,0 +1,205 @@
+/* part-1 */
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.part1{
+    display: flex;
+    margin-top: 100px
+}
+.half-width{
+    width: 50%;
+    padding-right: 20%;
+    padding-left: 3%;
+    margin-left: 5%;
+    border-radius: 10px;
+}
+
+.half-width img{
+    width: 90%;
+    padding-right: 500%;
+    
+}
+span{
+    color: orangered;
+}
+
+.explore-now{
+    text-decoration: none;
+    background-image:linear-gradient(orange,tomato);
+    /* padding-top: 10px ; */
+     padding: 10px 50px ; 
+    border-radius: 5px;
+    color:aquamarine ;
+    font-weight: 700;
+    
+}
+
+.scroll{
+    padding-top:  50px;
+    color: black;
+    font-size: 13px;
+}
+
+.bold1{
+    font-weight:700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Different */
+.mission{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 10%;
+    padding-left: 40%;
+}
+
+.edit1{
+    color: orangered;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.edit2{
+    color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* part2 */
+.part2{
+    display: flex;
+    
+}
+
+
+.mini1{
+    
+    box-shadow: 10px 10px 40px grey;
+    margin: 5%;
+    padding: 50px;
+    color:black;
+    background-color: antiquewhite;
+    /* background-image: url(goal1.png); */
+}
+
+.mini2{
+    
+    box-shadow: 10px 10px 40px grey;
+    margin: 5%;
+    padding: 50px;
+    color:black;
+    background-color:rgb(159, 207, 191)
+}
+
+.mini3{
+    
+    box-shadow: 10px 10px 40px grey;
+    margin: 5%;
+    padding: 50px;
+    color:black;
+    background-color:khaki;
+}
+
+#edit3{
+    color: crimson;
+}
+
+#edit4{
+    color:orangered
+}
+
+#edit5{
+    color: darkcyan;
+}
+
+
+/* part3 */
+.part3{
+    display: flex;
+}
+.p3{
+    width: 50%;
+    margin-top: 100px
+}
+.p3 img{
+    width: 50%;
+    padding-left: 40px;
+
+}
+/* 
+.p3{
+    background-image: url(p1.png);
+    /* background-repeat: no-repeat; */
+    /* background-position:left;
+    background-repeat: repeat-x; */
+
+/* part4 */
+.part4{
+    display: flex;
+    margin-top: 100px;
+}
+.p4{
+    width: 50%;
+    padding-left: 100px;
+    padding-right: 50%px;
+    margin-right: 150px;
+}
+.p4 img{
+    width: 120%;
+    /* padding-left: 40px; */
+    padding-right: 60px;
+    background-image: url(p1.png);
+     background-repeat: no-repeat; 
+
+}
+
+.edit6{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    color:rgb(0, 0, 0)
+    
+}
+
+/* part5 */
+
+.part5{
+    display: flex;
+    margin-top: 100px
+}
+.p5{
+    width: 50%;
+ 
+}
+.p5 img{
+    width: 80%;
+    padding-left: 250px;
+   
+}
+
+#font{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+}
+
+footer{
+ 
+    background-color: black;
+    color:aqua;
+    width: 95%;
+    padding: 10px;
+    /* border: 25px solid navy; */
+    margin: 20px;
+    /* border-radius: 15px; */
+
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+
+
